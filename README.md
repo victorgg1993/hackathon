@@ -98,7 +98,7 @@ El objetivo de esta actividad es aprender a utilizar otros eventos disparados po
 
 La empresa GAME-R-US ©️ os ha pedido implementar un formulario de contacto preparado para añadir un sistema de validación propio que se activará cuando se envíe el formulario.
 
-Sólo necesitan una función que muestre una alerta que será sustituida por el código de validación en una fase posterior. El código proporcionado és el seguiente:
+Sólo necesitan una función que muestre una alerta, que será sustituida por el código de validación en una fase posterior. El código proporcionado és el seguiente:
 
 ```html
 <form id="contacte" method="post">
