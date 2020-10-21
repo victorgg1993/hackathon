@@ -1,3 +1,16 @@
+
+# Grupo:
+
+| Nombre  | Ejercicio    |
+| ------: | -----------: |
+| Jordi   |  Ejercicio 1 |
+| Oscar   |  Ejercicio 2 |
+| Omar    |  Ejercicio 3 |
+| Youssef |  Ejercicio 4 |
+| Víctor  |  Ejercicio 5 |
+
+
+
 # hackathon
 
 #Ejercicios eventos (*events*)
